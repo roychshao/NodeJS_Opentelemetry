@@ -1,0 +1,10 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 300px;
+}
+
+.user, .email, .password, .wait {
+    cursor: pointer;
+}
